@@ -1,5 +1,3 @@
-Star this repo18592
-Fork on GitHub5538
 <h1 align="center">Hi 👋, I'm Wilfredo Siso</h1>
 <h3 align="center">A passionate Data Analyst and Game Dev from Miami</h3>
 
