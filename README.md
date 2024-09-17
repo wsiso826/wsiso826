@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MiamiWorld](https://github.com/wsiso826/Miami-World_Godot_Game)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 My projects are also available at [https://applyto.digication.com/wilfredo-siso/projects](https://applyto.digication.com/wilfredo-siso/projects)
 
